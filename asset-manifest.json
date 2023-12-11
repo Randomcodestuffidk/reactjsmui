@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Randomcodestufreactjsmuifidk/static/css/main.21d48b27.css",
-    "main.js": "/Randomcodestufreactjsmuifidk/static/js/main.e3863c08.js",
-    "static/js/787.fb771931.chunk.js": "/Randomcodestufreactjsmuifidk/static/js/787.fb771931.chunk.js",
-    "index.html": "/Randomcodestufreactjsmuifidk/index.html",
-    "main.21d48b27.css.map": "/Randomcodestufreactjsmuifidk/static/css/main.21d48b27.css.map",
-    "main.e3863c08.js.map": "/Randomcodestufreactjsmuifidk/static/js/main.e3863c08.js.map",
-    "787.fb771931.chunk.js.map": "/Randomcodestufreactjsmuifidk/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/Randomcodestuffidk/reactjsmui/static/css/main.21d48b27.css",
+    "main.js": "/Randomcodestuffidk/reactjsmui/static/js/main.85e3d755.js",
+    "static/js/787.fb771931.chunk.js": "/Randomcodestuffidk/reactjsmui/static/js/787.fb771931.chunk.js",
+    "index.html": "/Randomcodestuffidk/reactjsmui/index.html",
+    "main.21d48b27.css.map": "/Randomcodestuffidk/reactjsmui/static/css/main.21d48b27.css.map",
+    "main.85e3d755.js.map": "/Randomcodestuffidk/reactjsmui/static/js/main.85e3d755.js.map",
+    "787.fb771931.chunk.js.map": "/Randomcodestuffidk/reactjsmui/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21d48b27.css",
-    "static/js/main.e3863c08.js"
+    "static/js/main.85e3d755.js"
   ]
 }
